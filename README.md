@@ -6,11 +6,8 @@
 
 ### Built with
 - HTML5 markup
-- SCSS custom properties
-- BEM methodology
-- Flexbox
-- CSS Grid
-- RWD
+- CSS 
+- JavaScript
 
 ## Author
 - Website - [v.lozghachov](https://www.linkedin.com/in/valerii-lozghachov-91aa101b9/)
